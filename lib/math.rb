@@ -1,3 +1,4 @@
+
 def addition(num1, num2)
 sum = num1 + num2
 end 
@@ -12,7 +13,6 @@ end
 
 def multiplication(num1, num2)
 answer = num1 * num2
-answer
 end
 
 def modulo(num1, num2)
@@ -20,5 +20,5 @@ answer = num1 % num2
 end
 
 def square_root(num)
-answer = num**
+answer = num **
 end
