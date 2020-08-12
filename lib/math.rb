@@ -20,5 +20,6 @@ answer = num1 % num2
 end
 
 def square_root(num)
-answer = num **
+answer = Math.sqrt(num)
+answer
 end
